@@ -1,3 +1,3 @@
 thoroughengineer.github.io
 ==========================
-THis is the ReadMe
+This is the ReadMe
